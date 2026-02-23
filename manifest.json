@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "description": "App de tareas del hogar con puntos y ranking familiar",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hogar",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Hogar",
+  "start_url": "/https://angiemar1992v-prog.github.io/Home2/",
+  "theme_color": "#0A0A14",
+  "icons": [
+    {
+      "src": "https://angiemar1992v-prog.github.io/Home2/icons/icon-192.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "Home_cleaner"
+}
